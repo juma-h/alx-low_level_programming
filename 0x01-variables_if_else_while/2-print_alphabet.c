@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inclide <stdlib.h>
+#include <stdlib.h>
 /**
  * main - function
  * Description: Print letters of the alaphabet in lowercase
