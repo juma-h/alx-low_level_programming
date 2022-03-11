@@ -7,7 +7,7 @@
  * Description :Take last number on n
  * Check and print if it is > 5, is zero, < 6 but > 0
  * Return: 0
- * */
+*/
 int main(void)
 {
 	int n;
@@ -24,6 +24,5 @@ int main(void)
 		printf("Last digit of %i is %i and is 0\n",n,digit);
 	else if (digit < 6)
 		printf("Last digit of %i is %i and is less than 6 and not 0\n",n,digit);
-
 	return (0);
 }
