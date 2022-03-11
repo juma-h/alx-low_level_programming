@@ -4,7 +4,7 @@
 /**
  * main - function
  * Description: Get random number
- * Check and print if it is positive,negative or zero 
+ * Check and print if it is positive,negative or zero
  * Return value : 0
  */
 int main(void)
@@ -19,6 +19,5 @@ int main(void)
 		printf("%i is negative\n", n);
 	else
 		printf("%i is zero\n", n);
-	
 	return (0);
 }
