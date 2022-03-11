@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - function 
+ * main - function
  * Description: number count
  * Return: 0
- *
 */
-int main(void) 
+int main(void)
 {
 	char c = '0';
 
