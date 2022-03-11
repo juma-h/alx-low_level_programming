@@ -5,7 +5,7 @@
  * main - function
  * Description: Get random number
  * Check and print if it is positive,negative or zero
- * Return value : 0
+ * Return: 0
  */
 int main(void)
 {
