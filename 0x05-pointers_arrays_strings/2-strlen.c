@@ -2,9 +2,9 @@
 #include "main.h"
 #include <string.h>
 /**
- * _strlen - function 
+ * _strlen - function
  * @s: parameter passed
- * Return : integer
+ * Return: integer
 */
 int _strlen(char *s)
 {
