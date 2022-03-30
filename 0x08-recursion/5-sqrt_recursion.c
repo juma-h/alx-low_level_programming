@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * _sprt_recursion - return square root of number
+ * _sqrt_recursion - return square root of number
  * @n: integer of num
  * Return: if not natural square root, -1
 */
