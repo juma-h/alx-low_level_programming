@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * factorial - return factorial of a number
- * n - int parameter
+ * @n: int parameter
  * Return: 0 if n is lower or -1 to show error
 */
 int factorial(int n)
