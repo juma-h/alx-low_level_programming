@@ -6,7 +6,7 @@
  * @argv: argument values
  * Return: 0
 */
-int main(int argc, int argv[])
+int main(int argc, char *argv[])
 {
 	(void) argv; // we are not using so we void it
 	printf("%d\n", argc - 1);
