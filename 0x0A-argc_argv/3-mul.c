@@ -7,7 +7,7 @@
  * @argv: arguments value
  * Return: 0 or 1
 */
-int main(int argc, char *arhv[])
+int main(int argc, char *argv[])
 {
 	int x;
 	int y;
