@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - function to print name of current file
- * Return: 0
+ * main - print the name of the file that was compiled
+ * Return: int
  */
+
 int main(void)
 {
-	printf("%s\n",__FILE__);
+	printf("%s\n", __FILE__);
 
 	return (0);
 }
