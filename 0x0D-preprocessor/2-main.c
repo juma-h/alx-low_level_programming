@@ -4,7 +4,7 @@
  * main - function to print name of current file
  * Return: 0
  */
-int main()
+int main(void)
 {
 	printf("%s\n",__FILE__);
 
