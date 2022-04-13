@@ -12,7 +12,7 @@ int op_add(int a, int b)
 }
 
 /**
- * op_sub - subtration function
+ * op_sub - subtraction function
  * @a: first integer
  * @b: second integer
  * Return: difference between two numbers
