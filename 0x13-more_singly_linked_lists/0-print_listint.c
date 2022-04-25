@@ -3,7 +3,7 @@
 
 /**
  * print_listint - print elements of linkedlist
- * @h: linked list
+ * @h: linked list to be printed
  *
  * Return: number of nodes
  */
@@ -15,7 +15,7 @@ size_t print_listint(const listint_t *h)
 
 	while (current != NULL)
 	{
-		printf("%i\n", current->n);
+		printf("%d\n", current->n);
 		current = current->next;
 		num++;
 	}
